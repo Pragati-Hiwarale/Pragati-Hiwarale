@@ -1,0 +1,44 @@
+#1 Coffee Machine Test Case
+
+TC1:-  Check switch of coffee machine trun on/off.
+TC2:-  Check lights were glowing or not.
+TC3:-  Check the voltage.
+TC4:-  Check the water tank capacity.
+TC5:-  Check the coffee beans quantity.
+TC6:-  Check whether Heat is producing and serving hot water or not.
+TC7:-  Check the control panel working or not.
+TC8:-  Check the Steam wand is it working or not.
+TC9:-  Check the water and Milk getting steam or not.
+TC10:- Check the Timer is running.
+TC11:- Check out the coffee is dispensed in the right place.
+TC12:- After pressing button coffee delivering in to cup or not.
+
+
+#2 What's app Test Case
+
+TC1:- Check the Mobile version is congruous for whats app.
+TC2:- Check the Internet connection.
+TC3:- Verify the user has what'sapp pre-installed , if not then download the WhatsApp app from the Play Store or App Store.
+TC4:- Installation permission (Contect, camera, album, location, microphone)get agree or deny.
+TC5:- Creating account enter valid contact number.
+TC6:- Verifying the contact via. verification code.
+TC7:- Check should user able to apply Display photo(DP).
+TC8:- Check user can put "about" on account profile.
+TC9:- Check user can send and get the message.
+TC10:- Check the emoji section were working or not.
+TC11:- Check group and chat messages notification were getting or not.
+TC12:- Check message and chat deleting easily.
+TC13:- Check whether the voice and video calling working or not.
+TC14:-  Check out the videos and the images were get downloading or not.
+TC15:- Check we are able to attach documents or not.
+TC16:- Check recent messages notification showing on top or not.
+TC17:- Check on "MY STATUS" we are able to upload stories or not.
+TC18:- Check whether stories are getting deleted after 24hrs.
+TC19:- Check are you able to create and join groups.
+TC20:- Check 1 time story should be upto 30 sec only.
+TC21:- Check we are able to put multiple stories at same time.
+TC22:- Check out Conference call getting or coundcting or not.
+TC23:- Check that the users are able to turn off notifications for particular chat or for particular groups.
+TC24:- Check that the users are able to report and block spam or abusive content.
+TC25:- Check that the users "LogOut" account from device or not.
+TC26:- Check that the users are able to delete the account successfully or not.
