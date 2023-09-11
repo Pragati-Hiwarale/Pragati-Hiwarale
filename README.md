@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragati-hiwarale" alt="pragati-hiwarale" /></a> </p>
 
-- 🔭 I’m currently working on **manual Testing projects**
+- 🔭 I’m currently working on **WEB-DEVELOPEMENT projects**
 
 - 🌱 I’m currently learning **Web - Developement**
 
