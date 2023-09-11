@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Pragati</h1>
-<h3 align="center">Software Tester</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati-hiwarale&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-hiwarale" /> </p>
 
@@ -7,19 +7,19 @@
 
 - 🔭 I’m currently working on **manual Testing projects**
 
-- 🌱 I’m currently learning **Software Testing**
+- 🌱 I’m currently learning **Web - Developement**
 
-- 👯 I’m looking to collaborate on **Manual Testing**
+- 👯 I’m looking to collaborate on **Frontend**
 
-- 🤝 I’m looking for help with **API API Testing,Selenium,Automation**
+- 🤝 I’m looking for help with **Web-devlopement, API,Selenium,Automation**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pragati-hiwarale-39979422a](https://www.linkedin.com/in/pragati-hiwarale-39979422a)
 
-- 💬 Ask me about **Java ,Python, HTML,CSS, Agile Scrum**
+- 💬 Ask me about **javaScript, HTML-CSS, Java ,Python, HTML,CSS, Agile Scrum**
 
 - 📫 How to reach me **pragatihiwarale08@gmail.com**
 
-- ⚡ Fun fact **I am Enjoying Learning**
+- ⚡ Fun fact **Always ready to Learn**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
