@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Pragati</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati-hiwarale&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-hiwarale" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pragati-hiwarale-39979422a](https://www.linkedin.com/in/pragati-hiwarale-39979422a)
 
-- 💬 Ask me about **javaScript, HTML-CSS, Java ,Python, HTML,CSS, Agile Scrum**
+- 💬 Ask me about **javaScript, HTML-CSS, Java ,Python, React-js, API, Agile Scrum**
 
 - 📫 How to reach me **pragatihiwarale08@gmail.com**
 
