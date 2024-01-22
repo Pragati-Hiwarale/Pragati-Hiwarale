@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragati-hiwarale" alt="pragati-hiwarale" /></a> </p>
 
-- 🔭 I’m currently working on **WEB-DEVELOPEMENT projects**
+- 🔭 I’m currently working on **Govrnment Portal**
 
-- 🌱 I’m currently learning **Web - Developement**
+- 🌱 I’m currently learning **Backend Techonology**
 
-- 👯 I’m looking to collaborate on **Frontend**
+- 👯 I’m looking to collaborate on **Fornt-end Techonlogies**
 
-- 🤝 I’m looking for help with **Web-devlopement, API,Selenium,Automation**
+- 🤝 I’m looking for help with **Web-devlopement, API, Automation**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pragati-hiwarale-39979422a](https://www.linkedin.com/in/pragati-hiwarale-39979422a)
 
