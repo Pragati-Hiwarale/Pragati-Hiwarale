@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragati-hiwarale" alt="pragati-hiwarale" /></a> </p>
 
-- 🔭 I’m currently working on **Government Portal**
+- 🔭 I’m currently working on **Company Project**
 
 - 🌱 I’m currently learning **Backend Techonology**
 
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pragati-hiwarale-39979422a](https://www.linkedin.com/in/pragati-hiwarale-39979422a)
 
-- 💬 Ask me about **javaScript, HTML-CSS, Java ,Python, React-js, API, Agile Scrum**
+- 💬 Ask me about **javaScript, HTML-CSS, Java ,Python, React-js, API, PHP, Agile Scrum**
 
-- 📫 How to reach me **pragatihiwarale08@gmail.com**
+- 📫 How to reach me **pragatihiwarale10@gmail.com**
 
 - ⚡ Fun fact **Always ready to Learn**
 
