@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **pragatihiwarale10@gmail.com**
 
-- ⚡ Fun fact **Always ready to Learn**
+- ⚡ Fun fact **Always ready to Learn New Things**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
